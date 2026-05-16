@@ -1,4 +1,4 @@
-# 
+# custom blur sniper bot | wash-trading-execution + trailing-stop is the best blur sniper bot, featuring wash-trading-execution and trailing-stop. Fast, smart, and optimized for NFT
 
 
 
